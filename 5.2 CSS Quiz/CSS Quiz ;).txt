@@ -1,0 +1,15 @@
+CSS Quiz ;)
+
+Q1 What is the correct syntax for adding inline CSS to an HTML element?
+Ans1 : <element style=" CSS Code">
+
+Q2 Which of the following is the correct syntax for adding an internal stylesheet to an HTML document?
+Ans2 : 
+<head>
+	<style>
+		CSS code
+	</style>
+</head>
+
+Q3 What is the correct syntax for linking an external stylesheet to an HTML document?
+Ans3 : <link href="style.css" rel="Stylesheet" />
