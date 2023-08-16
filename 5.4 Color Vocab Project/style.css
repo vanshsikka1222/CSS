@@ -1,0 +1,31 @@
+/* RED */
+.color-title {
+    font-weight: normal;
+    color: red;
+}
+
+/* BLUE */
+#blue {
+    color: blue;
+}
+
+/* ORANGE */
+#orange {
+    color: orange;
+}
+
+/* GREEN */
+#green {
+    color: green;
+}
+
+/* YELLOW */
+#yellow {
+    color : yellow
+}
+
+/* IMAGE Selector */
+img {
+    height: 200px;
+    width: 200px;
+}
