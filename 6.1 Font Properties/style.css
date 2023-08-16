@@ -1,0 +1,23 @@
+#color {
+    color:coral;
+}
+
+#font-size {
+    font-size: 2rem;
+}
+
+#font-weight {
+    font-weight: 900;
+}
+
+#font {
+    font-family: 'Caveat', regular;
+}
+
+#align {
+    text-align: right;
+}
+
+html {
+    font-size: 30px;
+}
