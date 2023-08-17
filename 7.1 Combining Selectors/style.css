@@ -1,0 +1,27 @@
+/* Write your code here: */
+/* Changing h1 and h2 to blueviolet using GROUP Selection */
+h1, h2 {
+    color: blueviolet;
+}
+
+/* Changing 1st p tag to FireBrick color using CHILD Selection (it is only one gen deep) */
+.box > .done { 
+    color: firebrick;
+}
+/* OR .box > p */
+
+/* Color list items blue using DESCENDENT Selection */
+.box .list {
+    color: blue;
+}
+/* OR .box li */
+
+/* 2,3 list items to green using CHAINING Selector */
+li.done {
+    color: seagreen;
+}
+
+/* Can also COMBINE diff Combininers (Here- DESCENDENT & CHAINING) ;) */
+ul p.done {
+    font-size: 0.5rem;
+}
